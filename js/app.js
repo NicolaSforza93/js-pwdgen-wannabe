@@ -16,10 +16,10 @@ let color
 //   - assegnare alla variabile il valore restituito da un prompt
 color = prompt('Qual è il tuo colore preferito?')
 console.log(color)
-// - dichiarare una variabile con il numero 21
-let number = 21
+// - inizializzare una variabile con il numero 21
+const number = 21
 // bonus
-// let randNumb = Math.floor(Math.random() * 100)
+// let randNum = Math.floor(Math.random() * 100)
 console.log(number)
 // - concatenare il nome, il cognome, il colore preferito e il numero
 //   - dichiarare una variabile password dove concateniamo le stringhe

@@ -9,7 +9,7 @@
 - chiedere all'utente il suo colore preferito
   - dichiarare una variabile
   - assegnare alla variabile il valore restituito da un prompt
-- dichiarare una variabile con il numero 21
+- inizializzare una variabile con il numero 21
 - concatenare il nome, il cognome, il colore preferito e il numero
   - dichiarare una variabile password dove concateniamo le stringhe
 - stampare la password sulla pagina
